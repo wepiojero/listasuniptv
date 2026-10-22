@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",1ESPN 2 HD
+http://45.5.118.152:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",2ESPN 6 HD
+http://45.5.118.152:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",3ABN
+http://45.5.118.152:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",3ESPN HD
+http://45.5.118.152:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",Azcorazon
+http://45.5.118.152:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",Baby First
+http://45.5.118.152:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",CANAL  19 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 100 (TBN Enlace)
+http://45.5.118.152:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 100 CHINIQUE
+http://45.5.118.152:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 102 FUTV HD CR
+http://45.5.118.152:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 103 ESPN 5
+http://45.5.118.152:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 104 Extra TV 42
+http://45.5.118.152:8000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 106 FX HD
+http://45.5.118.152:8000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 107 TUDN
+http://45.5.118.152:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 108 ESPN 3
+http://45.5.118.152:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 110 MUSICA
+http://45.5.118.152:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 111 Discovery Home & Health
+http://45.5.118.152:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 113 EURO Channel
+http://45.5.118.152:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 114 Film & arts HD
+http://45.5.118.152:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 115 (13 latina)
+http://45.5.118.152:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 116 Multicinema
+http://45.5.118.152:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 117 ROCK TV
+http://45.5.118.152:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 118 MUSICA RADIO EN LINEA
+http://45.5.118.152:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 119 ID
+http://45.5.118.152:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 12 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 120 DHE HD
+http://45.5.118.152:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 14 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 16 Discovery Kids
+http://45.5.118.152:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 17 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 17 Tooncast
+http://45.5.118.152:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 18 Baby First
+http://45.5.118.152:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 2 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 20 Distrito Comedia
+http://45.5.118.152:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 21 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 22 CARTOON NETWORK HD
+http://45.5.118.152:8000/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 23 TN 23
+http://45.5.118.152:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 24 CNNE
+http://45.5.118.152:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 25  Guatevision
+http://45.5.118.152:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 26 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 27 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 28 LAS ESTRELLAS
+http://45.5.118.152:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 30 TELENOVELAS EMERGENCIA
+http://45.5.118.152:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 30 Telenovelas
+http://45.5.118.152:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 31 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 32 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 34 SKY SPORT
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 35 FOX 
+http://45.5.118.152:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 36 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 37 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 38 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 39 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 4 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 40 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 41 ( CANAL 4 CHICHI
+http://45.5.118.152:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 42 BANDA MAX
+http://45.5.118.152:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 43 Telehit
+http://45.5.118.152:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 44 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 45 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 46 Canal Azteca - GUA
+http://45.5.118.152:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 48 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 49 Sembrador
+http://45.5.118.152:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 5 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 5 SOLOLA
+http://45.5.118.152:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 50 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 52 Animal Planet HD
+http://45.5.118.152:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 53 Discovery Turbo
+http://45.5.118.152:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 54 National Geographic
+http://45.5.118.152:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 55 PANA TV
+http://45.5.118.152:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 56 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 56 History Channel
+http://45.5.118.152:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 57 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 58 (Studio Universal HD)
+http://45.5.118.152:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 59 STAR CHANNEL HD
+http://45.5.118.152:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 6 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 61 Golden
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 62 HBO HD
+http://45.5.118.152:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 63 SPACE
+http://45.5.118.152:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 65 PRODUCCIONES GARCIA
+http://45.5.118.152:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 66 STAR
+http://45.5.118.152:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 67 DE PELICULA
+http://45.5.118.152:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 68 TNT
+http://45.5.118.152:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 69 Sony Movies HD
+http://45.5.118.152:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 70 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 71 Multipremier
+http://45.5.118.152:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 72 - 5mexicano
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 73 CINECANAL HD
+http://45.5.118.152:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 74 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 75 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 76 AXN
+http://45.5.118.152:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 78 TDS Solola
+http://45.5.118.152:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 79 TOTOVISION
+http://45.5.118.152:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 8 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 80 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 81 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 82 AZTECA 7
+http://45.5.118.152:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 83 12 TV MAYA
+http://45.5.118.152:8000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 83 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 84 FOX HD GUA
+http://45.5.118.152:8000/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 84 TIGO SPORT
+http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 84 TVBOX
+http://45.5.118.152:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 85 CLARO
+http://45.5.118.152:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 86 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 87 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 88 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 9 CANAL 27
+http://45.5.118.152:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 90 Pasiones HD
+http://45.5.118.152:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 91 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 92 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 93 TCM
+http://45.5.118.152:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 94 RCN Novelas
+http://45.5.118.152:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 94 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 95 (NACION TV)
+http://45.5.118.152:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 96 TELESUR
+http://45.5.118.152:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 98 (TNT Series)
+http://45.5.118.152:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 98 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 99 TELEVISION CHICHICASTECA 
+http://45.5.118.152:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="-",CDN37 - RD
+http://45.5.118.152:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",Canal 11 - GUA
+http://45.5.118.152:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Canal 13-GUA
+http://45.5.118.152:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",Canal 3 - GUA
+http://45.5.118.152:8000/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="-",Canal 64 CineMax
+http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="-",Canal 7 - GUA
+http://45.5.118.152:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="-",Cine Latino
+http://45.5.118.152:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="-",Claro Sports 2 SD
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="-",DISC THEATHER HD
+http://45.5.118.152:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="-",Disney JR
+http://45.5.118.152:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://45.5.118.152:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",ESPN  4 HD
+http://45.5.118.152:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2
+http://45.5.118.152:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://45.5.118.152:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6
+http://45.5.118.152:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+http://45.5.118.152:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="-",FOX CR
+http://45.5.118.152:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="-",FOX CR 
+http://45.5.118.152:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",HOLA! TV HD
+http://45.5.118.152:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="-",Home & Health HD
+http://45.5.118.152:8000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="-",KDrama HD
+http://45.5.118.152:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="-",KNAL 4 QUICHE
+http://45.5.118.152:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",La voz de Maria
+http://45.5.118.152:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="-",RITMOS INIOLVIDABLES
+http://45.5.118.152:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="-",RUDDY VISION 12 QUICHE
+http://45.5.118.152:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://45.5.118.152:8000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas
+http://45.5.118.152:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",Telemundo HD
+http://45.5.118.152:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://45.5.118.152:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://45.5.118.152:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+http://45.5.118.152:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://45.5.118.152:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",canal 10 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",prueba enrique
+http://45.5.118.152:8000/play/a0e0/index.m3u8
