@@ -2,3 +2,4 @@ Listaromero Cloud | https://romaxa55.github.io/world_ip_tv/output/index.m3u  | t
 Argentina1 | https://raw.githubusercontent.com/jromero88/iptv/master/channels/ar.m3u | tv
 Pruebapelis | https://sulthanpamenan.github.io/vod-playlist/movies.m3u | vod
 Pruebaseries | https://sulthanpamenan.github.io/vod-playlist/series.m3u | vod
+Argentina2 | https://raw.githubusercontent.com/camammoli/iptv/master/canales.m3u | tv
